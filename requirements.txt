@@ -1,6 +1,0 @@
-streamlit
-pandas
-transformers==4.28.1
-torch==1.12.1
-openpyxl
-
