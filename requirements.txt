@@ -1,0 +1,7 @@
+streamlit
+pandas
+transformers==4.28.1
+torch==2.0.0
+openpyxl
+sentencepiece
+
